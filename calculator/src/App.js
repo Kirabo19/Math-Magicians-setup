@@ -8,7 +8,7 @@ class App extends React.Component {
     this.state = {};
   }
 
-  render() {
+         render() {
     return (
       <Calculator />
     );
