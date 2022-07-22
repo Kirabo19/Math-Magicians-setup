@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Home = () => (
-  <div>
+  <div className="home_content">
     <h2>Welcome to our page</h2>
     <p>
       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
