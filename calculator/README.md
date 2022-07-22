@@ -1,12 +1,49 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Math Magicians
 
-## Available Scripts
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+- Make simple calculations.
+- Read a random math-related quote.
+
+## Home Page 
+
+![image](https://user-images.githubusercontent.com/92228303/154141944-d6c8ede3-c583-4842-9a37-14b92bdce726.png)
+
+## Calculator 
+
+![image](https://user-images.githubusercontent.com/92228303/154142103-c71e927d-071e-4bfb-9c5c-ab202b9fc0b7.png)
+
+## Quote
+
+![image](https://user-images.githubusercontent.com/92228303/154142200-c4aece2b-4ce1-48b6-b774-3e41ea3f1436.png)
+
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Live Demo
+
+
+## Getting Started
+
+### **Setup**
+To get a local copy up and running follow these simple example steps.
+
+- Run `git clone https://github.com/TimmyChan99/Math_Magicians.git`
+- Go to the folder `cd Math_Magicians`
+
+his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### **Available Scripts**
 
 In the project directory, you can run:
 
-### `npm start`
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -14,12 +51,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+`npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+`npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -29,7 +66,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+`npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -68,3 +105,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Authors
+
+👤 **Patrick Ndimukulaga**
+
+- GitHub: [@Kirabo19](https://github.com/Kirabo19)
+- Twitter: [@ndimuku](https://twitter.com/ndimuku)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/patrick-ndimukulaga-a6910a50/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
