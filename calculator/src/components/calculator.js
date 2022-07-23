@@ -12,7 +12,7 @@ const Calculator = () => {
   };
   return (
     <div className="calculator">
-      <div className="output">{ result.next || result.operation || result.total || 0 }</div>
+     <div data-testid="output" className="output">{ result.next || result.total || 0 }</div>
       <div className="numbers">
         <button type="button" onClick={clickHandler}>7</button>
         <button type="button" onClick={clickHandler}>8</button>
